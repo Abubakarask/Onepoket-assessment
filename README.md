@@ -14,12 +14,12 @@ cd Onepoket-assessment
 ```
 
 ## TaskI --> Basic Node.js Server
-### i) Navigate to folder Task-I
+### i) Navigate to folder Task-I:
 ```bash
 cd Task-I
 ```
 
-### ii) Install the required packages by using this command
+### ii) Install the required packages by using this command(Make sure you are in folder Task-I):
 ```
 npm i
 ```
