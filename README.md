@@ -8,7 +8,7 @@ git clone https://github.com/Abubakarask/Onepoket-assessment.git
 cd Onepoket-assessment
 ```
 
-2. **Task-I/config/.env** --> ***define a environment variables file named .env (in config folder) with attributes:***
+2. **Task-I/.env** --> ***define a environment variables file named .env (in Task-I folder) with attributes:***
 ```
                           - PORT
 ```
