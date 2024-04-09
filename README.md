@@ -19,7 +19,12 @@ cd Onepoket-assessment
 cd Task-I
 ```
 
-### ii) Run the following command to start the server:
+### ii) Install the required packages by using this command
+```
+npm i
+```
+
+### iii) Run the following command to start the server:
 ```
 node index.js
 ```
