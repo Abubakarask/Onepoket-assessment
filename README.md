@@ -51,6 +51,11 @@ curl http://localhost:3000/
 cd Onepoket-assessment
 ```
 
+#### Use this command if you are Task-I
+```bash
+cd ..
+```
+
 ### ii) To run the function use:
 ```bash
 node task-ii.js
@@ -62,7 +67,12 @@ node task-ii.js
 cd Onepoket-assessment
 ```
 
+#### Use this command if you are Task-I
+```bash
+cd ..
+```
+
 ### ii) To run the function use:
 ```bash
-node task-iiI.js
+node task-iii.js
 ```
